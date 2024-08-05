@@ -1,2 +1,2 @@
 # OnlineBookstore
-In progress project for online bookstore
+An in-progress backend project for online bookstore
